@@ -76,9 +76,9 @@
 
   <img align="left" alt="Huynh's Wakatime Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=conghuynhho&layout=compact" />
 
-</details>" />
-
 </details>
+
+
 
 
 [twitter]: https://twitter.com/HuynhHCng2/
