@@ -45,36 +45,17 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
-
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Huynh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=conghuynhho&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
+---
 
 <details>
   <summary>:zap: Top Programing Languages</summary>
 
   <img align="left" alt="Huynh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conghuynhho&layout=compact" />
-
-</details>
-<details>
-  <summary>:zap: Wakatime Week Stats</summary>
-
-  <img align="left" alt="Huynh's Wakatime Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=conghuynhho&layout=compact" />
 
 </details>
 
