@@ -50,7 +50,8 @@
   <img align="left" alt="Huynh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=conghuynhho&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
-
+</div>
+<div>
 <details>
   <summary>:zap: Top Programing Languages</summary>
 
