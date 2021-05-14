@@ -57,12 +57,21 @@
 
 </details>
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=conghuynhho&show_icons=true&hide_border=true&theme=onedark" />
+  <img align="left" alt="Huynh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=conghuynhho&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
+
+<details>
+  <summary>:zap: Top Programing Languages</summary>
+
+  <img align="left" alt="Huynh's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
+</details>
+
 
 [twitter]: https://twitter.com/HuynhHCng2/
 [instagram]: https://www.instagram.com/conghuynhh/
