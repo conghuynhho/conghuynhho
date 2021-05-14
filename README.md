@@ -72,9 +72,6 @@
 
 </details>
 <details>
-  <summary>:zap: Top Programing Languages</summary>
-
-  <img align="left" alt="Huynh's GitHub Stats" src="<details>
   <summary>:zap: Wakatime Week Stats</summary>
 
   <img align="left" alt="Huynh's Wakatime Week Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=conghuynhho&layout=compact" />
