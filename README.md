@@ -51,10 +51,9 @@
 
 </details>
 <br />
-<br /><br />
-<br /><br />
-<br /><br />
 <br />
+<br />
+
 <details>
   <summary>:zap: Top Programing Languages</summary>
 
