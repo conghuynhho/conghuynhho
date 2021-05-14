@@ -48,15 +48,11 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Huynh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=conghuynhho&show_icons=true&hide_border=true&theme=dracula" />
-
-</details>
----
-<details>
   <summary>:zap: Top Programing Languages</summary>
 
   <img align="left" alt="Huynh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conghuynhho&layout=compact" />
-
 </details>
+
 
 
 
