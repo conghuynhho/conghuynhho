@@ -9,9 +9,9 @@
 
 ## I'm a Student and a Front-End Developer!
 
-- 🌱 I’m currently learning ReactJS, VueJS, TypeScript, NextJS, NuxtJS🤣
+- 🌱 I’m currently learning and working on ReactJS, VueJS, TypeScript, NextJS, NuxtJS🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Become a better developer
+- 🥅 2022 Goals: Become a mid-level developer
 - ⚡ Fun fact: I love to play football ⚽⚽⚽
 
 
