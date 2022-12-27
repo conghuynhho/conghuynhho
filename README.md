@@ -37,6 +37,7 @@
 <img align="left" alt="GitHub" width="26px" src="/svg/github.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="/svg/vscode.svg" />
 <img align="left" alt="Terminal" width="26px" src="/svg/terminal.svg" />
+<img align="left" alt="Terminal" width="26px" src="/svg/vim.svg" />
 
 <br />
 <br />
