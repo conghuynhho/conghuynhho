@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on ReactJS, VueJS, TypeScript, NextJS, NuxtJS🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Become a senior developer
+- 🥅 Goals: Reach out the world of knowledge out there
 - ⚡ Fun fact: I love to play football ⚽⚽⚽
 
 
